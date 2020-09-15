@@ -4,4 +4,4 @@ title: FAQ
 permalink: /faq/
 ---
 
-An FAQ page.
+An FAQ page.待补充
