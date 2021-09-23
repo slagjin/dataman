@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917be5c8-f143-44b4-aca7-79c081998e0a" name="Default Changelist" comment="增加信息">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-27-Todolist.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-27-Todolist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-心灵砒霜.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-心灵砒霜.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-31-2019年终总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-31-2019年终总结.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632395323592</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="增加信息">
+      <created>1632395515563</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1632395515563</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -205,6 +212,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加信息" />
@@ -212,9 +220,10 @@
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2335" y="336" key="Vcs.Push.Dialog.v2" timestamp="1632395325272">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="415" y="336" key="Vcs.Push.Dialog.v2" timestamp="1632395517180">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="415" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1632395517180" />
     <state x="2335" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1632395325272" />
   </component>
   <component name="masterDetails">
