@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="917be5c8-f143-44b4-aca7-79c081998e0a" name="Default Changelist" comment="增加信息">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-31-2019年终总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-31-2019年终总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-30-回首向来萧瑟处，也无风雨也无晴.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-04-30-回首向来萧瑟处，也无风雨也无晴.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,9 @@
       <GitPushTagMode />
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -76,16 +79,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\Code\dataman\_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -193,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632395515563</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="增加信息">
+      <created>1714460946867</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714460946867</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -212,19 +225,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加信息" />
     <option name="LAST_COMMIT_MESSAGE" value="增加信息" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="415" y="336" key="Vcs.Push.Dialog.v2" timestamp="1632395517180">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="415" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1632395517180" />
-    <state x="2335" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1632395325272" />
   </component>
   <component name="masterDetails">
     <states>
